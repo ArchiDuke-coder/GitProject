@@ -1,1 +1,1 @@
-Hi, read this guide first
+Read me first
